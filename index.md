@@ -1,4 +1,4 @@
-# Hello, world!
+## Hello, world!
 
 This is the tentative setup for CS410 and, later, CS411W Group Project.
 
