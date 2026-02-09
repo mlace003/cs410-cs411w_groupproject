@@ -1,4 +1,6 @@
-## Hello, world!
+##CS410 and CS411W Group Project Webpage!
+
+## Welcome!
 
 This is the tentative setup for CS410 and, later, CS411W Group Project.
 
